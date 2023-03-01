@@ -1,32 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tatiane\\Downloads\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\nicol\\OneDrive\\Documentos\\bib\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tatiane\\Downloads\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\nicol\\OneDrive\\Documentos\\bib\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tatiane\\Downloads\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Documentos\\bib\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Tatiane\\Downloads\\Biblioteca\\Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\Tatiane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tatiane\\Downloads\\Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\bib\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\OneDrive\\Documentos\\bib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tatiane\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +35,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -69,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
         }
       }
     }
